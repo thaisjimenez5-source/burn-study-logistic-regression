@@ -74,5 +74,7 @@ The ROC curve also confirms that the model can almost always predict results cor
 
 ## Files
 
-- Logistic_Regression_Report.pdf
-- logistic_regression.ipynb
+[Python code.py](https://github.com/user-attachments/files/28562866/Python.code.py)
+
+[Logistic Regression Model.docx](https://github.com/user-attachments/files/28562907/Logistic.Regression.Model.docx)
+
